@@ -22,7 +22,7 @@ If you are struggling to understand how to use the bot. We understand you and ar
 Your game maybe already on the planned list. In our server (link above), go to our Announcements category and check out #planned-updates. If you can't see it there checkout our #forbidden-suggestions (or f>suggest).
 
 ## Commands
-*all available commands since "27th of April 2020"
+*all available commands since "27th of April 2020"*
 
 ### Basic
 **donate** Provides you with the usage of all the commands
