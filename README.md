@@ -1,3 +1,5 @@
+![Forbidden GIF](https://i.imgur.com/Gv3ZRR0.gif)
+
 # Forbidden Statistics
 Forbidden was originally created in April 2017. The original bot was designed to be a multi-purpose bot. After many years it was getting more and more difficult to maintain due to the large amount of features that were available. This year in 2020 we decided to scale back the bot and focus on a single category. We chose Game Statistics. While, for the time being the bot will remain with showing Game Statistics we made decide to branch out to other Social Media Statisitcs, etc.
 
