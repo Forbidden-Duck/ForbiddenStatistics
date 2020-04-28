@@ -30,6 +30,9 @@ If you are struggling to understand how to use the bot. We understand you and ar
 ### Will my game be added?
 Your game maybe already on the planned list. In our server (link above), go to our Announcements category and check out #planned-updates. If you can't see it there checkout our #forbidden-suggestions (or f>suggest).
 
+### How do I view a specific games platforms?
+You can view the platforms of a game by simple doing "gamecommand platforms", this will display all of the platforms for that specific game. For example: "overwatch platforms".
+
 ## Commands
 *all available commands since "27th of April 2020"*\
 
