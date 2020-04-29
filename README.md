@@ -13,9 +13,9 @@ https://discordapp.com/oauth2/authorize?client_id=305203825931845632&scope=bot&p
 ## Frequently asked questions
 
 ### How do I link one of the games to my account?
-This is achieved by using the "acclink" command. This command allows you to link accounts to your names.\
-To link an account just type "acclink [game] [options]" for example "acclink overwatch pc Duck#12641".\
-You can find the options for your game by typing "acclink help"\
+This is achieved by using the "gamelink" command. This command allows you to link accounts to your names.\
+To link an account just type "gamelink [game] [options]" for example "acclink overwatch pc Duck#12641".\
+You can find the options for your game by typing "gamelink help"\
 
 ### How do I find my SteamID?
 If you have the URL to your user profile or the vanity username of your account, you can lookup your SteamID with the command "steamlookup". This command only displays your Profile Avatar, Profile Username and your SteamID.\
