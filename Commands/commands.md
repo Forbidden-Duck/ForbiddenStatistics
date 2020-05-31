@@ -1,5 +1,5 @@
 ## Commands
-*all available commands since "31/05/2020"*\
+*all available commands since "31/05/2020"*
 
 ### Basic
 **donate** Sends you a link to donate\
