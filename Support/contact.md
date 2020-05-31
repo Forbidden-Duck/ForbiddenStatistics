@@ -1,7 +1,7 @@
 ## Support
 *Support information last updated "31/05/2020"*
 
-### Discord Users
+### Discord Staff
 Duck#9999 (Owner)\
 *Do not contact this user unless absolutely necessary or adviced by the Manager*
 
