@@ -17,3 +17,5 @@ https://discordapp.com/oauth2/authorize?client_id=305203825931845632&scope=bot&p
 
 ### Forbidden Support and Frequently Asked Questions
 [Click Here](https://github.com/Forbidden-Duck/ForbiddenStatistics/tree/master/Support) to be redirected
+
+[![Bots for Discord](https://botsfordiscord.com/api/bot/305203825931845632/widget?theme=dark)](https://botsfordiscord.com/bots/305203825931845632)
